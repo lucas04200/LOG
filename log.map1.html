@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Localisation des attaques</title>
+    <!-- leafletjs CSS -->
+    <link rel="stylesheet" href="leaflet/leaflet.css" />
+    <!-- leafletjs JS -->
+    <script src="leaflet/leaflet.js"></script>
+    <style>
+        html,
+        body { margin: 0; height: 95%; }
+        #map { width: 100%; height: 100%; }
+        h1 {text-align: center; color :red;}
+    </style>
+</head>
+<body>
+    <h1>Localisation des attaques</h1>
+    <!-- Le div qui contient la carte -->
+    <div id="map"></div>
+    <!-- Le script qui donne les pins -->
+    <script src="localisations.js"> </script>
+    <!-- Le script qui fait le boulot -->
+    <script type="text/javascript">
+        var map = L.map('map').setView([46.643, 2.957], 3); /* position et zoom de départ */
+        mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+          'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+            maxZoom: 18,
+          }).addTo(map);
+
+        for (var i = 0; i < locations.length; i++) {
+          marker = new L.marker([locations[i][1], locations[i][2]])
+            .bindPopup(locations[i][0])
+            .addTo(map);
+        }
+    </script>
+</body>
+</html>
