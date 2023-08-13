@@ -3,36 +3,30 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Utilisation](#utilisation)
-5. [Attention](#attention)
-6. [Crédit](#crédit)
+5. [Crédit](#crédit)
 ### Informations
 ***
 Console Gestion de classe - Version 1
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
-* [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/fr/vs/) : Professional 2022, Vesion 17.4
-* [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/) : Version 10
+* Python version 3.3
 * [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
 ## Installation
 *** 
 ```
-$ Merci de suivre le lien suivent pour avoir accès au code mon git ("https://github.com/lucas04200/B2-2022-CSharp-LucasDechavanne.git")
+$ Merci de suivre le lien suivent pour avoir accès au code mon git ("https://github.com/lucas04200/LOG")
 $ Ensuite, Vous devrez extraire le dossier
-$ Enfin , il faudra ouvrir ConsoleGestionClasse.sln
 ```
 # Utilisation
 ***
 ```
-$ Vous pouvez démarrer la console de gestion
-$ Ensuite Créer votre salle avec vos informations
+$ Avoir accès à un fichier de log.
+$ le visuel des connexions est accessible sur le fichier log.V1.
+$ les différentes versions de fichiers ont des fonctions différentes mais toutes ont du tri.
 ```
-## Attention
-***
-```
-$ Il y'a une gestion des erreurs donc vous ne pourrez pas écrire ce que vous voulez 
-```
+
 ## Crédit 
 ***
-Lucas Dechavanne - EPSI/B2
+Lucas Dechavanne 
  
