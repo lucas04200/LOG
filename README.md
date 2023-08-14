@@ -10,9 +10,9 @@
 Gestionnaire de fichiers log
 ### Objectif
 *** 
-Objectifs du projet : devoir trier des connexions via des fichiers log.
-Mise en place du tri des utilisateurs via une gestion de dictionnaire.
-Console de sortie qui nous donne les informations sur les utilisateurs qui ont le droit de connexion ou non.
+- Objectifs du projet : devoir trier des connexions via des fichiers log.
+- Mise en place du tri des utilisateurs via une gestion de dictionnaire.
+- Console de sortie qui nous donne les informations sur les utilisateurs qui ont le droit de connexion ou non.
 ***
 ## Technologies
 ***
