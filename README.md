@@ -27,9 +27,9 @@ Voici une liste des technologies utilisées :
 ***
 # Utilisation
 ***
-$ Avoir accès à un fichier de log.
-$ le visuel des connexions est accessible sur le fichier log.V1.
-$ les différentes versions de fichiers ont des fonctions différentes mais toutes ont du tri.
+- Avoir accès à un fichier de log.
+- Le visuel des connexions est accessible sur le fichier log.V1.
+- Les différentes versions de fichiers ont des fonctions différentes mais toutes ont du tri.
 ***
 ## Crédit 
 ***
