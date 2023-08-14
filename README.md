@@ -1,6 +1,6 @@
 ## Table des matières
 1. [Informations générales](#informations)
-2. [Objectif du projet](#Objectif)
+2. [Objectifs du projet](#Objectifs)
 3. [Technologies](#technologies)
 4. [Installation](#installation)
 5. [Utilisation](#utilisation)
@@ -9,7 +9,7 @@
 ***
 Gestionnaire de fichiers log
 ***
-### Objectif
+### Objectifs
 *** 
 - Objectifs du projet : devoir trier des connexions via des fichiers log.
 - Mise en place du tri des utilisateurs via une gestion de dictionnaire.
