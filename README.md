@@ -1,12 +1,19 @@
 ## Table des matières
 1. [Informations générales](#informations)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Utilisation](#utilisation)
-5. [Crédit](#crédit)
+2. [Objectif du projet](#Objectif)
+3. [Technologies](#technologies)
+4. [Installation](#installation)
+5. [Utilisation](#utilisation)
+6. [Crédit](#crédit)
 ### Informations
 ***
-Gestionnaire de fichiers log 
+Gestionnaire de fichiers log
+### Objectif
+*** 
+Objectifs du projet : devoir trier des connexions via des fichiers log.
+Mise en place du tri des utilisateurs via une gestion de dictionnaire.
+Console de sortie qui nous donne les informations sur les utilisateurs qui ont le droit de connexion ou non.
+***
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
