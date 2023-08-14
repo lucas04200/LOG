@@ -10,7 +10,7 @@ Gestionnaire de fichiers log
 ## Technologies
 ***
 Voici une liste des technologies utilisées :
-* [Python version](https://www.python.org/downloads/) : 3.10.7
+* [Python](https://www.python.org/downloads/) : 3.10.7
 * [Visual Studio Code](https://code.visualstudio.com/) : 1.70.2
 ## Installation
 *** 
