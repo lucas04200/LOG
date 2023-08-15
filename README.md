@@ -9,7 +9,7 @@
 ***
 Gestionnaire de fichiers log
 ***
-### Objectifs
+### Objectifs_du_projet
 *** 
 - Objectifs du projet : devoir trier des connexions via des fichiers log.
 - Mise en place du tri des utilisateurs via une gestion de dictionnaire.
