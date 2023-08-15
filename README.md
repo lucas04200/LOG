@@ -1,5 +1,5 @@
 ## Table des matières
-1. [Informations générales](#informations)
+1. [Informations](#informations)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Utilisation](#utilisation)
