@@ -26,7 +26,7 @@ Voici une liste des technologies utilisées :
 # Utilisation
 ***
 - Avoir accès à un fichier de log.
-- Le visuel des connexions est accessible sur le fichier log.V1.
+- Le visuel des connexions est accessible sur le fichier log.V1 et il faut lancer l'application via le terminal.
 - Les différentes versions de fichiers ont des fonctions différentes mais toutes ont du tri.
 ***
 ## Crédit 
